@@ -66,7 +66,7 @@ Pastikan sistem Anda telah terinstal:
    DB_USERNAME=root
    DB_PASSWORD=
    ```
-   *Pastikan Anda telah membuat database dengan nama `pengembangan_aplikasi_pengaduan_sarana_sekolah` melalui PhpMyAdmin.*
+   *Pastikan Anda telah membuat database dengan nama `pengembangan_aplikasi_pengaduan_sarana_sekolah_db` melalui PhpMyAdmin.*
 
 5. **Jalankan Migrasi dan Database Seeder**
    Setelah database Anda siap, jalankan migrasi tabel dan pengisian data *dummy*:
