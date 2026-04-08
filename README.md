@@ -62,7 +62,7 @@ Pastikan sistem Anda telah terinstal:
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=pengembangan_aplikasi_pengaduan_sarana_sekolah
+   DB_DATABASE=pengembangan_aplikasi_pengaduan_sarana_sekolah_db
    DB_USERNAME=root
    DB_PASSWORD=
    ```
